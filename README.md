@@ -1,6 +1,2 @@
 # First React Project
-
-### `np
-### `npm test`
-### `npm run build`
-### `npm run eject`
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
