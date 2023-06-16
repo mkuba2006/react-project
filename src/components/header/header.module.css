@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    margin: 3rem auto;
+  }
+  
+  
+  .header img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: contain;
+    background-color: transparent;
+  }
+  
+
+
+  .header h1{
+    text-align: center;
+    background-image: linear-gradient(to right, #00F260, #F79d00, #0575E6 ,#64F38C);
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 300%;
+    background-position:  -100%;
+    animation: anim 8s infinite alternate-reverse;
+}
+@keyframes anim {
+    to{
+        background-position: 100%;
+    }
+}
